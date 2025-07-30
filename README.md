@@ -1,7 +1,8 @@
 # CPU Emulator in Java
 
 A simple CPU emulator simulating a custom instruction set architecture with memory hierarchy, implemented in Java.
-Overview:
+
+## Overview:
 
 This project is a CPU emulator that models a simplified processor with registers, memory, instruction cache, L2 cache, and basic arithmetic and logic operations. It simulates instruction fetch, decode, execution, and store cycles to run assembly-like programs.
 ## Components:
