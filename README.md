@@ -49,4 +49,4 @@ Control Flow: Branches and subroutine calls update the program counter and stack
 
 Caching: Instruction and data accesses leverage multi-level caches to simulate realistic latency.
 
-### This CPU emulator provides a foundation for learning low-level computing concepts, instruction pipelining, memory hierarchy, and bitwise manipulation in a Java environment.
+#### This CPU emulator provides a foundation for learning low-level computing concepts, instruction pipelining, memory hierarchy, and bitwise manipulation in a Java environment.
